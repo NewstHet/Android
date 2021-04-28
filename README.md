@@ -1,1 +1,1 @@
-MAinActivity onServiceConnected does not get execute.   
+MainActivity onServiceConnected does not get execute.   
